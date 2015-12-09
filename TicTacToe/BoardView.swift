@@ -93,7 +93,6 @@ class BoardView: UIView {
             layer.addSublayer(line)
             lines[i] = line
         }
-        
     }
 }
 
